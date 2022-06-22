@@ -108,5 +108,5 @@ document.getElementById("idInput").addEventListener("input", getSuggestionsID);
 
 function loadCategoryItems(category) {
   localStorage.setItem("category", JSON.stringify(category));
-  window.location.href = "http://127.0.0.1:5500/categoryItems.html";
+  window.location.href = "https://ishaan35.github.io/categoryItems.html";
 }
