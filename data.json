@@ -1,0 +1,241 @@
+{
+    "data": [
+        {
+            "category": "A",
+            "elements": ["Apricots 4218wt","Artichokes 4516ea","Arugula 4884ea","Asparagus 3317ea/4080wt","Aloe 3798wt","Arbi (Indian) 12675wt","Amla (Indian) 14054wt"]
+        },
+        {
+            "category": "Apples",
+            "elements": ["Fuji 4129w/54131wt","Golden delicious 4021wt/4136wt","Red Delicious 4016wt/4167wt","Royal Gala 4173w / 4133wt/ 4132w / 62021wt","Granny Smith 4139wt","Macintosh 4153wt","Honey Crisp 3283wt","Ambrosia 3438wt","Spartan 62013wt","Pink lady 4128wt","Envy 3616wt","Lady Alice 3604wt"]
+        },
+        {
+            "category": "Avocado",
+            "elements": ["Regular 4046ea","5 count bag 9523ea","Jamaican 58659wt/4223ea"]
+        },
+        {
+            "category": "B",
+            "elements": ["Basil 4885ea","Bean Sprouts 4536wt","Bittermelon 4783wt","Belgian Endive 4543wt","Brussels Sprouts 4550wt","Brussels Sp. Bag 03338370154 ea","Bread Nut 3806wt","Bread Fruit 3805wt"]
+        },
+        {
+            "category": "Bananas",
+            "elements": ["Regular 4011wt","Cooking 4231wt","Organic 94011wt","Plantain 4235wt","Moco 3818wt"]
+        },
+        {
+            "category": "Beans",
+            "elements": ["Green 4066wt","Yellow 4533wt","Chinese long 4527wt"]
+        },
+        {
+            "category": "Beets",
+            "elements": ["Loose 4540", "Bunch 4539"]
+        },
+        {
+            "category": "Bok Choy",
+            "elements": ["Regular 4545wt","Baby4544wt","Shanghai 3163wt"]
+        },
+        {
+            "category": "Broccoli",
+            "elements": ["Regular 4060ea","Crowns 3082wt"]
+        },
+        {
+            "category": "C",
+            "elements": ["Corn 4590ea","Chestnuts 4927wt","Coriander/ Cilantro 4889ea","Collard greens 4614ea","Curry Leaf 3820wt","Choy sum 4829wt","Cherries 4045wt","Cauliflower 4079ea","Cocoes 59977wt","Calallo 3800wt","Cheramoya 4257ea/14035wt","Chickoo (Indian) 3136wt","Cantaloupe 4050ea"]
+        },
+        {
+            "category": "Cabbage",
+            "elements": ["Green 4069ea/ 4556wt","Red 4554ea/ 740wt","Savoy 4555eal 745wt","Nappa 4552wt","Taiwanese 4846wt"]
+        },
+        {
+            "category": "Celery",
+            "elements": ["Stalk 4070ea","Root 4585wt"]
+        },
+        {
+            "category": "Clementine",
+            "elements": ["Loose 70686wt","5lb Case 262ea"]
+        },
+        {
+            "category": "Cucumber",
+            "elements": ["Regular 4062ea","English 4593ea","Dill Cucumber 4596wt"]
+        },
+        {
+            "category": "Coconut",
+            "elements": ["Regular 4261ea","Water 363ea","Green Water 3636ea"]
+        },
+        {
+            "category": "D",
+            "elements": ["Dandelion 4615ea","Dill Weed 4892ea","Dates (fresh) 11759wt","Dasheen 15204wt","Dasheen Leaves 3799wt","Dragon Fruit 3040ea","Drumstick 3819wt","Durian 30665wt"]
+        },
+        {
+            "category": "E",
+            "elements": ["Eddoes 4794wt"]
+        },
+        {
+            "category": "Eggplant",
+            "elements": ["Regular 4081wt","8pc Eggplant case 11685ea","Italian 4599wt","Sicilian 4603wt","Indian 58007wt","Chinese Long 3089wt"]
+        },
+        {
+            "category": "F",
+            "elements": ["Fennel 4515ea"]
+        },
+        {
+            "category": "Figs",
+            "elements": ["Black 4266ea","Case 68796ea","Green 4268ea","Green Case 3536ea"]
+        },
+        {
+            "category": "G",
+            "elements": ["Gooseberry (Indian) 11925wt","Gai Long 3160wt","Garlic Loose 4608wt","Ginger Root 4612wt","Grapefruit Red 4285ea/4027ea","Guava 4299wt/16114wt","Gourds 3135wt","Grandilla 3038ea"]
+        },
+        {
+            "category": "Grapes",
+            "elements": ["Green Sdls 4022wt","Red Sdls 4023wt","Black Sdls 4056wt","Black Seeded 4270wt","Globe 4636wt","Italia 3043wt","Sable Black 70336wt"]
+        },
+        {
+            "category": "H",
+            "elements": ["Horseradish 4625wt"]
+        },
+        {
+            "category": "J",
+            "elements": ["Jicama 4626wt","June Plum 3803wt"]
+        },
+        {
+            "category": "K",
+            "elements": ["Kiwi 4030ea","Kale 4627ea","Kohlrabi 4628ea","Karalla 4857wt"]
+        },
+        {
+            "category": "L",
+            "elements": ["Lobok 4598wt","Logan Fruit 4307wt","Leeks 4629ea","Lemons 4958ea/4053ea","Limes 4048ea","Lychee Fruit 4309ea","Lotis Root 30681wt","Lemon Grass 4894wt","Loki 12598wt"]
+        },
+        {
+            "category": "Lettuce",
+            "elements": ["Boston 4632ea","Red Leaf 4075ea","Green Leaf 4076ea","Escarole 4605ea","Romaine 4640ea","Head 4061ea","Endive 4604ea"]
+        },
+        {
+            "category": "M",
+            "elements": ["Methi Leaf 59994ea","Mint Leaf 59953ea","Mooli 14055wt"]
+        },
+        {
+            "category": "Mangos",
+            "elements": ["Regular Red 4051ea","10 pk Case 6797","9 pk Case 13493","Ataulfo 4312ea","Ataulfo Case 3719ea","Julie 58655wt","Sweet Green 10612wt","Spice 58654wt","East Indian 12966wt","Alfonso 90123wt"]
+        },
+        {
+            "category": "Mushrooms",
+            "elements": ["Regular 4085wt","Oyster 4649wt","Portobello 4650wt","Shitake 4651wt","Crimini 4648wt"]
+        },
+        {
+            "category": "Melons",
+            "elements": ["Honeydew Melon 4329ea","Honey Kiss 13675wt","Golden Hami 3623wt","Santa Claus 3101wt","Canary 4317wt"]
+        },
+        {
+            "category": "N",
+            "elements": ["Nappa 4552wt","Nectarines 4035w/4036wt","Naseberry 3136wt"]
+        },
+        {
+            "category": "Nuts",
+            "elements": ["Almonds in Shell 4924wt","Almonds Raw 9813wt","Chestnuts 4927", "Walnuts 4943wt", "Pecans 4936wt", "Brazil 4926wt", "Filberts 4928wt", "Pistachio 57546wt"]
+        },
+        {
+            "category": "O",
+            "elements": []
+        },
+        {
+            "category": "Onions",
+            "elements": ["Cooking Loose 4658wt","Cooking 3Lb 59662ea","Green 4068ea","Red Loose 4082wt","Red 31b 36391ea","Red 101b 36392ea","Yellow 10lb 2525ea","Sweet 4166wt","White 4663wt","Spanish 4093wt","Madras 14056wt"]
+        },
+        {
+            "category": "Oranges",
+            "elements": ["Navel Large 3107wt/4012wt"]
+        },
+        {
+            "category": "Okra",
+            "elements": ["Regular 4655wt","Chinese 4656wt","Indian 12876wt"]
+        },
+        {
+            "category": "P",
+            "elements": ["Parsnips 4672wt","Peaches 4403w/4037wt/ 4038wt","Pineapple 4029ea","Pomegranate 3127ea","Passion Fruit 4397ea","Pummelo 53213ea/4279ea"]
+        },
+        {
+            "category": "Pears",
+            "elements": ["Bosc 4026wt","Forelle 4418wt","Asian 4407wt","D'anjou 4416wt/4025wt","Red 4410wt","Bartlett 4024wt/ 4409wt","Rocha 3024wt"]
+        },
+        {
+            "category": "Parsley",
+            "elements": ["Curly 4900ea","Italian 4901ea","Root 4671wt"]
+        },
+        {
+            "category": "Papaya",
+            "elements": ["Large 3112wea/8374wt"]
+        },
+        {
+            "category": "Peppers",
+            "elements": ["Cubanelle 4687wt","Hot House Red 4688wt","Field Red 4088wt","Hot House Green 4065wt","Green Half Case 56954ea","Hot House Orange 3121wt","Field Orange 4682wt","Hot House Yellow 4689wt","Field Yellow 4680wt","Jalepeno 4693wt","Yellow Hot 4690wt","Jamaican Hot 433wt","Long Hot Green 4696wt","Finger Hot 4707wt","Red Sheppard 2579wt","Sheppard Case 12643ea","Guyana Hot 3810wt","Thai Chili 3802wt","Green Chili 14057wt"]
+        },
+        {
+            "category": "Persimmons",
+            "elements": ["Vanilla 69220wt","Vanilla Case 71207ea","Hachiya 4427ea","Hachiya Case 36307ea","Small 4428wt","Kaki Case 69221ea"]
+        },
+        {
+            "category": "Plums",
+            "elements": ["Red 4041w/ 4042wt","Black 4040wt","Prune 4436wt"]
+        },
+        {
+            "category": "Peas",
+            "elements": ["Snow 4092wt","Sugar Snap 4675wt","Siem Fine 3797wt"]
+        },
+        {
+            "category": "Potatoes",
+            "elements": ["White 4083wt","Yukon Gold 4727wt","Red 4073wt","Baking 4072wt","Sweet 4091wt","Parisenne 58332wt","Caribbean Sweet 3288wt","Jamaican Sweet 802wt"]
+        },
+        {
+            "category": "Pumpkin",
+            "elements": ["Jumbo 4736wt","Pie 4737ea","Jamaican 434wt"]
+        },
+        {
+            "category": "Prickly Pears",
+            "elements": ["Singles 4255ea","Case 35896ea"]
+        },
+        {
+            "category": "Q",
+            "elements": ["Quince 4447wt"]
+        },
+        {
+            "category": "R",
+            "elements": ["Radicchio 4738wt","Rapini 4547ea","Rutabaga 4747wt","Rhubarb 4746wt","Radish (Bunch) 4089ea"]
+        },
+        {
+            "category": "S",
+            "elements": ["Spinach Bunch 4090ea","Swiss chard 4586ea","Star Fruit 4256ea","Sugar Cane 4790wt","Sorrel 10613wt","Sour Sop 3808wt","Sharon Fruit 4428wt","Sapodilla 11924wt"]
+        },
+        {
+            "category": "Squash",
+            "elements": ["Buttercup 4758wt","Butternut 4759wt","Acorn 4750wt","Spaghetti 4776wt","Opo Long 3141wt","Chayote 4761wt","Amber Cup 4767wt"]
+        },
+        {
+            "category": "T",
+            "elements": ["Tamrind 3823wt","Tangerine Honey 4453wt","Tinda 11921wt",""]
+        },
+        {
+            "category": "Tomatoes",
+            "elements": ["Hot House 4799wt","Plum/Roma 4087wt","Roma Half Bushel 70755ea","Field (Reg.) 4800w/3151wt","On Vine 4664wt"]
+        },
+        {
+            "category": "Turnip",
+            "elements": ["Loose 4812wt","Bunched 4812ea"]
+        },
+        {
+            "category": "Watermelon",
+            "elements": ["Mini 3421ea","Sugar Cane 4790wt","Jumbo 59232ea","Sugar Baby Whole 4331ea","Piece 4346wt","Watercress 4815ea",""]
+        },
+        {
+            "category": "Y",
+            "elements": ["Yucca (cassava) 4819wt","Yu Choy 3164wt"]
+        },
+        {
+            "category": "Yams",
+            "elements": ["Yellow 4816ea","White 807wt","Yampie 3811wt","Suran 11922wt"]
+        },
+        {
+            "category": "Zuchini",
+            "elements": ["Yellow 4086wt","Green 4067wt","Gray (light green) 4785wt"]
+        }
+    ]
+    
+}
